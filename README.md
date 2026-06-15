@@ -36,7 +36,7 @@ Pause CPR uses Chrome's local extension storage only to remember whether the rem
 
 ## Third-Party Links
 
-The "Read full chapter" button opens ESV.org in a new tab. ESV.org is operated by Crossway and has its own privacy practices. Pause CPR does not share browsing data with ESV.org; opening the link is a normal user-initiated website visit.
+The "Read full chapter/The Bible" button opens ESV.org in a new tab. ESV.org is operated by Crossway and has its own privacy practices. Pause CPR does not share browsing data with ESV.org; opening the link is a normal user-initiated website visit.
 
 ## Remote Code
 
